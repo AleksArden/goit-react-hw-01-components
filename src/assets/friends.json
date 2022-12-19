@@ -1,0 +1,56 @@
+[
+  {
+    "avatar": "https://meragor.com/files/styles//220_220_bottom_wm/bryunetka-na-avu-094.jpg",
+    "name": "Julia",
+    "isOnline": true,
+    "id": 1001
+  },
+  {
+    "avatar": "https://meragor.com/files/styles//220_220_bottom_wm/sfztn_girl_avatar_5.jpg",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://meragor.com/files/styles//220_220_bottom_wm/ava-34.jpg",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://meragor.com/files/styles//220_220_bottom_wm/kepka-shapka-na-avu-064.jpg",
+    "name": "Ajax",
+    "isOnline": false,
+    "id": 1213
+  },
+  {
+    "avatar": "https://meragor.com/files/styles//220_220_bottom_wm/kepka-shapka-na-avu-057.jpg",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://meragor.com/files/styles//220_220_bottom_wm/sfztn_girl_avatar_351.jpg",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  },
+  {
+    "avatar": "https://meragor.com/files/styles//220_220_bottom_wm/bryunetka-na-avu-077.jpg",
+    "name": "Niki",
+    "isOnline": true,
+    "id": 1788
+  },
+  {
+    "avatar": "https://meragor.com/files/styles//220_220_bottom_wm/lico-na-avu-032.jpg",
+    "name": "Marko",
+    "isOnline": true,
+    "id": 1531
+  },
+  {
+    "avatar": "https://meragor.com/files/styles//220_220_bottom_wm/v-naushnikah-070.jpg",
+    "name": "Jain",
+    "isOnline": false,
+    "id": 1097
+  }
+]

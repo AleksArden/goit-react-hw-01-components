@@ -3,11 +3,14 @@ export const theme = {
         black: '#000',
         white: '#fff',
         text: '#2a2a2a',
-        background: '#fff',
-        primary: '#07c',
-        secondary: '#05a',
+        background: '#B0C4DE',
+        primary: '#87CEEB',
+        secondary: '#6A5ACD',
+        table: '#E0FFFF',
         accent: '#609',
-        muted: '#809196',
+        muted: '#00008B',
+        status: '#FF1493',
+        statusIsOnline: '#7FFF00'
     },
     space: [0, 2, 4, 8, 16, 32, 64, 128, 256],
     fonts: {
