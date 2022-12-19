@@ -3,16 +3,16 @@ export const theme = {
         black: '#000',
         white: '#fff',
         text: '#2a2a2a',
+        textSecondary: '#00008B',
         background: '#B0C4DE',
         primary: '#87CEEB',
         secondary: '#6A5ACD',
         table: '#E0FFFF',
         accent: '#609',
-        muted: '#00008B',
         status: '#FF1493',
         statusIsOnline: '#7FFF00'
     },
-    space: [0, 2, 4, 8, 16, 32, 64, 128, 256],
+    space: [0, 2, 4, 8, 16, 24, 32, 64, 128, 256],
     fonts: {
         body: 'system-ui, sans-serif',
         heading: 'system-ui, sans-serif',
@@ -40,6 +40,7 @@ export const theme = {
     radii: {
         none: '0',
         normal: '5px',
+        big: '10px',
         round: '50%',
     },
 };
